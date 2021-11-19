@@ -9,7 +9,7 @@
  <a href="https://github.com/oGabrielSilva">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGabrielSilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: flex; text-align: center">
+<div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />

@@ -31,7 +31,7 @@ const developer = new AboutMe({
 });
 ```
 
-
+## Statistics
 
 <div>
  <a href="https://github.com/oGabrielSilva">

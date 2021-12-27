@@ -24,10 +24,10 @@ const developer = new AboutMe({
  name: 'Gabriel',
  area: 'Fullstack developer',
  languages: [{ 
-  front: ['JavaScript', 'CSS3', 'HTML5/EJS'], 
+  front: ['JavaScript', 'CSS3', 'HTML5'], 
   back: ['Node', 'PHP', 'Python'],
  }],
- tools: ['Visual Studio Code', 'React', 'MongoDB', 'MySQL', 'Express', 'Socket.IO'],
+ tools: ['Visual Studio Code', 'React', 'MongoDB', 'MySQL', 'Express', 'EJS', 'Socket.IO'],
 });
 ```
 

@@ -11,9 +11,10 @@
 import Developer from 'Gabriel';
 
 class AboutMe extends Developer {
-  constructor({ name, area, languages, tools }) {
+  constructor({ name, nick, area, languages, tools }) {
    super();
    this.name = name;
+   this.nick = nick;
    this.area = area;
    this.languages = [...languages];
    this.tools = [...tools];
@@ -22,6 +23,7 @@ class AboutMe extends Developer {
 
 const developer = new AboutMe({
  name: 'Gabriel',
+ nick: 'oGabrielSilva',
  area: 'Fullstack developer',
  languages: [{ 
   front: ['JavaScript', 'CSS3', 'HTML5'], 

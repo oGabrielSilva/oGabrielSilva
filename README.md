@@ -1,5 +1,5 @@
 ## Gabriel
-### E aí, Dev!
+### What's up, Dev
 :computer: I'm Full-Stack Developer!
 :house_with_garden: I’m from Brazil.
 :books: I’m currently learning everything.

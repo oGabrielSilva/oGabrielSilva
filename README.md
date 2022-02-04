@@ -26,8 +26,9 @@ const developer = new AboutMe({
  nick: 'oGabrielSilva',
  area: 'Fullstack developer',
  languages: [{ 
-  front: ['JavaScript', 'CSS3', 'HTML5'], 
-  back: ['Node', 'PHP', 'Python'],
+  frontEnd: ['JavaScript', 'CSS3', 'HTML5'], 
+  backEnd: ['Node', 'PHP', 'Python'],
+  mobile: ['React Native'],
  }],
  tools: ['Visual Studio Code', 'React', 'MongoDB', 'MySQL', 'Express', 'EJS', 'Socket.IO'],
 });

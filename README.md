@@ -16,8 +16,8 @@ class Developer extends AboutMe {
    this.name = name;
    this.nick = nick;
    this.area = area;
-   this.languages = [...languages];
-   this.tools = [...tools];
+   this.languages = languages;
+   this.tools = tools;
    this.db = db;
  }
 }

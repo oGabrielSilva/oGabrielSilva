@@ -8,29 +8,31 @@
 
 
 ```js
-import Developer from 'Gabriel';
+import AboutMe from 'Gabriel';
 
-class AboutMe extends Developer {
-  constructor({ name, nick, area, languages, tools }) {
+class Developer extends AboutMe {
+  constructor({ name, nick, area, languages, tools, db }) {
    super();
    this.name = name;
    this.nick = nick;
    this.area = area;
    this.languages = [...languages];
    this.tools = [...tools];
+   this.db = db;
  }
 }
 
 const developer = new AboutMe({
- name: 'Gabriel',
+ name: 'Gabriel Silva',
  nick: 'oGabrielSilva',
- area: 'Fullstack developer',
+ area: 'Fullstack developer and IT Manager',
  languages: [{ 
-  frontEnd: ['JavaScript', 'CSS3', 'HTML5'], 
-  backEnd: ['Node', 'PHP', 'Python'],
+  frontEnd: ['JavaScript', 'React', 'TypeScript'], 
+  backEnd: ['Node', 'Express', 'AdonisJS', 'Websocket'],
   mobile: ['React Native'],
  }],
- tools: ['Visual Studio Code', 'React', 'MongoDB', 'MySQL', 'Express', 'EJS', 'Socket.IO'],
+ tools: ['Visual Studio Code'],
+ db: ['SQL', 'Firebase', 'MongoDB'],
 });
 ```
 

@@ -6,34 +6,41 @@
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 ## Tools and Technologies
 
-
 ```js
-import AboutMe from 'Gabriel';
-
-class Developer extends AboutMe {
-  constructor({ name, git, area, languages, tools, db }) {
-   super(name);
-   this.git = git;
-   this.area = area;
-   this.languages = languages;
-   this.tools = tools;
-   this.db = db;
- }
-}
-
-const developer = new AboutMe({
- name: 'Gabriel Silva',
- git: 'oGabrielSilva',
- area: 'Fullstack developer and IT Manager',
- languages: [{ 
-  frontEnd: ['JavaScript', 'React', 'TypeScript'], 
-  backEnd: ['Node', 'Express', 'AdonisJS', 'Websocket'],
-  mobile: ['React Native', 'Java'],
- }],
- tools: ['Visual Studio Code', 'Android Studio'],
- db: ['MySQL', 'SQLite', 'Firebase', 'MongoDB'],
+export const gabriel = new Developer({
+  name: 'Gabriel Silva',
+  gitUser: 'oGabrielSilva',
+  job: 'FullStack Developer & IT Manager',
+  languages: ['JavaScript', 'TypeScript', 'Java'],
+  frameworks: ['React/React-Native', 'NextJS', 'NodeJS', 'Express'],
+  tools: ['MySQL', 'Firebase', 'MongoDB', 'Prisma'],
 });
 ```
+
+```js
+export class Developer extends AboutMe {
+  readonly languages: Array<string>;
+  readonly frameworks: Array<string>;
+  readonly tools: Array<string>;
+
+  constructor({ name, gitUser, job, languages, tools, frameworks }: Developer) {
+    super(name, gitUser, job);
+    this.languages = languages;
+    this.frameworks = frameworks;
+    this.tools = tools;
+  }
+}
+
+```
+
+
+```js
+export class AboutMe {
+  constructor(readonly name: string, readonly gitUser: string, readonly job: string) {}
+}
+```
+
+
 
 ## Statistics
 

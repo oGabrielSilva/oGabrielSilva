@@ -10,4 +10,4 @@ Veja alguns links:
 - [Meu portfólio desatualizado :(](https://gabrielsilva.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/ogabriel-henrique)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oGabrielSilva&langs_count=10&show_icons=true&locale=pt-BR&layout=compact&theme=dark&hide=ejs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oGabrielSilva&langs_count=10&show_icons=true&locale=pt-BR&layout=compact&theme=dark)

@@ -7,7 +7,6 @@ Hoje, praticamente formado, uni duas das coisas que mais gosto: gestão e tecnol
 
 Veja alguns links:
 - [Meu currículo](https://gabrielhenriquedasilva.vercel.app)
-- [Meu portfólio desatualizado :(](https://gabrielsilva.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/ogabriel-henrique)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=oGabrielSilva&langs_count=6&show_icons=true&locale=pt-BR&layout=compact&theme=dark)

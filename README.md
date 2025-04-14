@@ -1,7 +1,7 @@
 ### Opa, visitante 👋
-Sou um desenvolvedor web, ok? Bem próximo do FrontEnd e do BackEnd: o famoso FullStack. 
-Estudo programação como um todo desde 2019. Logo, ingressei em uma universidade federal em 2021, cursando Gestão da Tecnologia da Informação. 
-Hoje, praticamente formado, uni duas das coisas que mais gosto: gestão e tecnologia. 
+Sou um desenvolvedor web, ok? Bem próximo do front-end e do bacn-end: o famoso full stack. 
+Estudo programação como um todo desde 2019. Logo, ingressei em um instituto federal em 2021, cursando Gestão da Tecnologia da Informação. 
+Hoje, formado, uni duas das coisas que mais gosto: gestão e tecnologia. 
 
 Sou um gestor também :)
 

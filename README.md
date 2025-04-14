@@ -10,6 +10,7 @@ Ah! Inclusive, sou fã do `React` e do `Vue`!
 ### ⚙️ Eu uso diariamente: `.vue`, `.ts`, `.tsx`, `.java`, `.js`, `.css`, `.html`
 
 Veja alguns links:
+- [Meu site](https://www.gabrielsv.com)
 - [Meu currículo](https://gabrielhenriquedasilva.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/ogabriel-henrique)
 

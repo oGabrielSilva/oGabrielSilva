@@ -28,5 +28,5 @@ Também sou gestor 🙂 uni as duas coisas que mais gosto: gestão e tecnologia.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oGabrielSilva&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oGabrielSilva&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=scss,css,html" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oGabrielSilva&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=scss,css,html" alt="Top Langs" />
 </p>

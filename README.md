@@ -12,8 +12,8 @@ Minha praia é arquitetura ponta a ponta: API sólida no backend conversando com
 
 ### 📦 O que ando construindo
 
-- 💼 Atualmente na [**@agencia.vision**](https://agencia.vision) — de SaaS a LP e e-mail marketing
-- ✍️ Escrevo no [**gabrielsv.com**](https://gabrielsv.com) — artigos práticos sobre Node.js, ASP.NET, NestJS, refatoração e o ecossistema web
+- 💼 Atualmente na [**@agencia.vision**](https://agencia.vision), de SaaS a LP e e-mail marketing
+- ✍️ Escrevo no [**gabrielsv.com**](https://gabrielsv.com), artigos práticos sobre Node.js, ASP.NET, NestJS, refatoração e o ecossistema web
 - 🧰 Mantenho ferramentas em [**eu.gabrielsv.com/tools**](https://eu.gabrielsv.com/tools) e o [**kassiopeia-tools**](https://www.npmjs.com/package/kassiopeia-tools) no npm
 - 🌐 Portfólio em [**eu.gabrielsv.com**](https://eu.gabrielsv.com)
 

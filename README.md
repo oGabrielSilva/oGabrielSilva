@@ -21,7 +21,7 @@ Minha praia é arquitetura ponta a ponta: API sólida no backend conversando com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogabriel-henrique)
 [![Blog](https://img.shields.io/badge/Blog-FF6B35?style=flat&logo=hashnode&logoColor=white)](https://gabrielsv.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:help@rota42.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:odev.gabriel@gmail.com)
 
 ---
 

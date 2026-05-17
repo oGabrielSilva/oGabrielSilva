@@ -1,6 +1,7 @@
 ### Opa, visitante 👋
 
-Me chame de **Gabriel**. Sou desenvolvedor full stack há mais de 6 anos, pós-graduado em Desenvolvimento Web e formado em Gestão da Tecnologia da Informação. Uni as duas coisas que mais gosto: tecnologia e gestão.
+Me chame de **Gabriel**. Sou desenvolvedor full stack há mais de 6 anos, pós-graduado em Desenvolvimento Web e formado em Gestão da Tecnologia da Informação. 
+Uni as duas coisas que mais gosto: tecnologia e gestão.
 
 Minha praia é arquitetura ponta a ponta: API sólida no backend conversando com interface reativa no frontend.
 
@@ -12,9 +13,9 @@ Minha praia é arquitetura ponta a ponta: API sólida no backend conversando com
 
 ### 📦 O que ando construindo
 
-- 💼 Atualmente na [**@agencia.vision**](https://agencia.vision), de SaaS a LP e e-mail marketing
-- ✍️ Escrevo no [**gabrielsv.com**](https://gabrielsv.com), artigos práticos sobre Node.js, ASP.NET, NestJS, refatoração e o ecossistema web
-- 🧰 Mantenho ferramentas em [**eu.gabrielsv.com/tools**](https://eu.gabrielsv.com/tools) e o [**kassiopeia-tools**](https://www.npmjs.com/package/kassiopeia-tools) no npm
+- 💼 Atualmente trabalho desenvolvendo desde SaaS, LP e e-mail marketing, meu foco é a Web
+- ✍️ Escrevo no [**gabrielsv.com**](https://gabrielsv.com), artigos práticos sobre tecnologia e o ecossistema web
+- 🧰 Mantenho ferramentas em [**eu.gabrielsv.com/tools**](https://eu.gabrielsv.com/tools) e o [**decifra.js**](https://www.npmjs.com/package/decifra.js) no npm
 - 🌐 Portfólio em [**eu.gabrielsv.com**](https://eu.gabrielsv.com)
 
 ### 📫 Onde me achar

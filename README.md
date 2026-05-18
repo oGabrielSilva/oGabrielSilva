@@ -14,7 +14,7 @@ Minha praia é arquitetura ponta a ponta: API sólida no backend conversando com
 ### 📦 O que ando construindo
 
 - 💼 Atualmente trabalho desenvolvendo desde SaaS, LP e e-mail marketing, meu foco é a Web
-- ✍️ Escrevo no [**gabrielsv.com**](https://gabrielsv.com), artigos práticos sobre tecnologia e o ecossistema web
+- ✍️ Escrevo no [**eu.gabrielsv.com**](https://eu.gabrielsv.com/blog), artigos práticos sobre tecnologia e o ecossistema web
 - 🧰 Mantenho ferramentas em [**eu.gabrielsv.com/tools**](https://eu.gabrielsv.com/tools) e o [**decifra.js**](https://www.npmjs.com/package/decifra.js) no npm
 - 🌐 Portfólio em [**eu.gabrielsv.com**](https://eu.gabrielsv.com)
 
@@ -25,8 +25,3 @@ Minha praia é arquitetura ponta a ponta: API sólida no backend conversando com
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:odev.gabriel@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oGabrielSilva&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oGabrielSilva&langs_count=6&layout=compact&theme=dark&hide_border=true&hide=scss,css,html" alt="Top Langs" />
-</p>

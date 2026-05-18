@@ -17,6 +17,7 @@ Minha praia é arquitetura ponta a ponta: API sólida no backend conversando com
 - ✍️ Escrevo no [**eu.gabrielsv.com**](https://eu.gabrielsv.com/blog), artigos práticos sobre tecnologia e o ecossistema web
 - 🧰 Mantenho ferramentas em [**eu.gabrielsv.com/tools**](https://eu.gabrielsv.com/tools) e o [**decifra.js**](https://www.npmjs.com/package/decifra.js) no npm
 - 🌐 Portfólio em [**eu.gabrielsv.com**](https://eu.gabrielsv.com)
+- Conheça meu projeto [**Inspectre**](https://github.com/oGabrielSilva/inspectre)
 
 ### 📫 Onde me achar
 
